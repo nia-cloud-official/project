@@ -40,7 +40,7 @@
     </div>
     <div class="spacer"></div>
     <div class="card">
-      Add a Course
+      Add a Courses
     </div>
     </div>  
     </center>
